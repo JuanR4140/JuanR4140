@@ -4,11 +4,11 @@
   <h1>Hi, I'm <a href="https://juanr4140.com" target="_blank">juanr4140</a>!</h1>
 
   <h2>About Me!</h2>
-  <p>🎂 I am 15!</p>
+  <p>🎂 I am 16!</p>
   <p>💻 I LOVE coding!</p>
   <p>🐧 I ONLY use Linux!</p>
-  <p>🎵 I LOVE The Beatles</p>
-  <p>✈️ I like planes :)</p>
+  <p>🎵 I LOVE The Beatles!</p>
+  <p>✈️ I like planes! :)</p>
 
   <h2>Interests!</h2>
   <p>I primarily do a lot of programming in C!</p>
@@ -36,8 +36,8 @@
 
   <h2>Pinned Projects!</h2>
 
-  <h3><a href="https://github.com/JuanR4140/Custom-CPU-Emulator-and-Assembler" target="_blank">Custom CPU Emulator and Assembler</a></h3>
-  <h3><a href="https://github.com/JuanR4140/OS">Operating System</a></h3>
+  <h3><a href="https://github.com/JuanR4140/Custom-CPU-Emulator-and-Assembler" target="_blank">Custom CPU Emulator and Assembler (LINK)</a></h3>
+  <h3><a href="https://github.com/JuanR4140/OS">Operating System (LINK)</a></h3>
 
   <h2>Current Projects!</h2>
   
