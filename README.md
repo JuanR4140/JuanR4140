@@ -4,7 +4,7 @@
   <h1>Hi, I'm <a href="https://juanr4140.com" target="_blank">juanr4140</a>!</h1>
 
   <h2>About Me!</h2>
-  <p>🎂 I am 16!</p>
+  <p>🎂 I am 17!</p>
   <p>💻 I LOVE coding!</p>
   <p>🐧 I ONLY use Linux!</p>
   <p>🎵 I LOVE The Beatles!</p>
@@ -36,12 +36,13 @@
 
   <h2>Pinned Projects!</h2>
 
+  <h3><a href="https://github.com/JuanR4140/ClassroomLibrary" target="_blank">Classroom Library (LINK)</a></h3>
   <h3><a href="https://github.com/JuanR4140/Custom-CPU-Emulator-and-Assembler" target="_blank">Custom CPU Emulator and Assembler (LINK)</a></h3>
-  <h3><a href="https://github.com/JuanR4140/OS">Operating System (LINK)</a></h3>
+  <h3><a href="https://github.com/JuanR4140/OS" target="_blank">Operating System (LINK)</a></h3>
 
   <h2>Current Projects!</h2>
   
-  <h3>"Pokemon GO" type Android app prototype</h3>
+  <h3>Classroom Library</h3>
 
   <h2>Stats!</h2>
 
@@ -51,7 +52,7 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JuanR4140&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
   <br><br>
-  <p>I'm going to improve those stats!!!</p>
+  <p>bah</p>
   
 </div>
 
